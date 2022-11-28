@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tsiddiqui02
-- 🌱 Currently BCS student working to become part of the DevOps world. 
-- 💞️ I’m looking to collaborate on projects involving continuous integration and deployment in software and app development. 
-- 👀 Personal interests are in computer architecture, cinematography, real estate, psychology, and fitness.
+- 🌱 BCS student 
+- 💞️ Working to strengthen software development skills and implement cloud services. 
+- 👀 Personal interests: computer architecture, cinematography, real estate, psychology, and fitness.
 - 📫 For any questions and/or inquiries, please contact me @taseenes21@gmail.com
 
 <!---
